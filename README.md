@@ -5,7 +5,7 @@ Initial planning will be around the idea that all the units will be set up in an
 
 Any specifics of units, ability’s, spells shall be determent at a later date. Any such as implementing a card game style twist or an additional strategic layer where multiple matches will be played in a single game will be stretch goals. The question right now is if multiplayer would fall under the stretch goals.
 
-(ReadMe Images/components.png)
+(https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/0ba462ce5f567cb8c87e92578abb553a7652cf7d/ReadMe%20Images/components.png)
 
 # Wireframe Sketches
 
