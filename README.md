@@ -1,2 +1,14 @@
-# Strategy-Game-For-SENIOR-PROJECT
-Simple Strategy game for a SENIOR PROJECT
+#Overview
+It will be a tuned based strategy game where each match played on a square tile board that will be no smaller than 5 tiles by 5 tiles.
+
+Initial planning will be around the idea that all the units will be set up in an initialization phase for ‘turn 0’ where the game will play from there.
+
+Any specifics of units, ability’s, spells shall be determent at a later date. Any such as implementing a card game style twist or an additional strategic layer where multiple matches will be played in a single game will be stretch goals. The question right now is if multiplayer would fall under the stretch goals.
+
+#Wireframe Sketches
+
+#User Stories
+
+#Use-Cases
+
+#Use Case Diagram
