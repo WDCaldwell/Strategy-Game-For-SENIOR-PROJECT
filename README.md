@@ -29,11 +29,11 @@ There are three main databases
 # Wireframe Sketches
 ## Turn 0 UI
 ![](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/bf63c4b7e8ffcf5333cf9a21a25803785ceece2e/ReadMe%20Images/wireframe_turn_0.png)
-Note in this example has 3 minions added to the blue side and 1 to the red side with red picking to add another minion to their line up (shown by the yellow circle) and picking a minion form the selection table(Shown by the yellow box).
+Note in this example has 3 minions added to the blue side and 1 to the red side with red picking to add another minion to their line up (shown by the yellow circle) and picking a minion form the selection table(Shown by the yellow box). As such when selecting a minion already in a line the buttons can be used to remove them or add another of that type Along side the ability to start the game.
 
-
+## Turn 1+ UI
 ![](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/bf63c4b7e8ffcf5333cf9a21a25803785ceece2e/ReadMe%20Images/wireframe_turn_1.png)
-
+Note in this example blue player has already has the "2" minion defeated by being reduced to 0 health with red having inputed there actions as read in the text box waiting for the red player to click the confirm button or cancel. This would go till all units red player has have no actions left or red player hits the end turn button which would switch to blue players turn refilling their minions actions.
 
 # User Stories
 
