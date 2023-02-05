@@ -5,7 +5,26 @@ Initial planning will be around the idea that all the units will be set up in an
 
 Any specifics of units, ability’s, spells shall be determent at a later date. Any such as implementing a card game style twist or an additional strategic layer where multiple matches will be played in a single game will be stretch goals. The question right now is if multiplayer would fall under the stretch goals.
 
-![](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/0ba462ce5f567cb8c87e92578abb553a7652cf7d/ReadMe%20Images/components.png)
+## Componets
+### User Interface
+At base the user interface would have a turn 0 state where players would be able to add units to the board. Afterwords it would be used to control the units on the board reciving updates from the Logic Engines.
+
+### Logic Engines
+The main muscle of the program. contains the following programs
+  A dynamic list to keep what minions are in play first populated by the database.
+  The main logic engine that decideds the order of operations that player actions go in.
+  Movement Engine that checks if a movement is valid.
+  The Damage engine to determin the results of combat.
+  
+
+### Database
+There are three main databases
+  1)Minion Database- Contains the base stats of a minion.
+  2)Abilites database-A list of abilites and their name.
+  3)Assignment database-determins what minions have what abilites.
+
+
+![](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/746cd2f9173306e07a30f72d28a32b2b2d40dd98/ReadMe%20Images/components.png)
 
 # Wireframe Sketches
 
