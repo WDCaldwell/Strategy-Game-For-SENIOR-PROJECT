@@ -27,6 +27,12 @@ There are three main databases
 ![](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/746cd2f9173306e07a30f72d28a32b2b2d40dd98/ReadMe%20Images/components.png)
 
 # Wireframe Sketches
+## Turn 0 UI
+![](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/bf63c4b7e8ffcf5333cf9a21a25803785ceece2e/ReadMe%20Images/wireframe_turn_0.png)
+Note in this example has 3 minions added to the blue side and 1 to the red side with red picking to add another minion to their line up (shown by the yellow circle) and picking a minion form the selection table(Shown by the yellow box).
+
+
+![](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/bf63c4b7e8ffcf5333cf9a21a25803785ceece2e/ReadMe%20Images/wireframe_turn_1.png)
 
 
 # User Stories
