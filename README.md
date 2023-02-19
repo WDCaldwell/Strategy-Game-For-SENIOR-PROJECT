@@ -38,16 +38,12 @@ Note in this example blue player has already has the "2" minion defeated by bein
 # Requirements 
 |ID|Requirement|
 |-|-|
-|1||
-|2||
-|3||
-|4||
-|5||
-|6||
-|7||
-|8||
-|9||
-|10||
+|1|A player can add and remove units to the board|
+|2|A player can start the game, and end their turn|
+|3|The AI will move the pices under their command|
+|4|A units will deal damage and take damage|
+|5|A unit that has reach zero healh shall be removed from the board|
+|6|Unit abilites work as intended|
 
 # User Stories
 ### 
