@@ -35,6 +35,20 @@ Note in this example has 3 minions added to the blue side and 1 to the red side 
 ![](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/4a1a45e28305de5753411d4ccc0f96250449e433/ReadMe%20Images/wireframe_turn_1.png)
 Note in this example blue player has already has the "2" minion defeated by being reduced to 0 health with red having inputted there actions as read in the text box waiting for the red player to click the confirm button or cancel. This would go till all units red player has have no actions left or red player hits the end turn button which would switch to blue players turn refilling their minions’ actions. where they would do these same with this loop going till one side has no more minions.
 
+# Requirements 
+|ID|Requirement|
+|-|-|
+|1||
+|2||
+|3||
+|4||
+|5||
+|6||
+|7||
+|8||
+|9||
+|10||
+
 # User Stories
 ### 
 1)As a first-time player
