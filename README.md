@@ -89,3 +89,9 @@ Player wants to Remove a minion to one of sides. A copy of the unit they want to
 
 # Use Case Diagram
 ![](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/4a1a45e28305de5753411d4ccc0f96250449e433/ReadMe%20Images/use_case_diagram.png)
+
+# ERD
+![](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/000657594cbf3e031c024efba347fc263d4f3d8d/ReadMe%20Images/chennotation_entity_relationship_diagram_.png)
+
+# UML Class Diagram 
+![](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/000657594cbf3e031c024efba347fc263d4f3d8d/ReadMe%20Images/UML%20Class%20Diagram.png)
