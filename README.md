@@ -98,4 +98,4 @@ Player wants to Remove a minion to one of sides. A copy of the unit they want to
 
 # protype
 
-![](Protype/ReadMeProtype.md)
+![]([Protype/ReadMeProtype.md](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/6cc484c56659ecee1731011303d1f0cb60fead63/Protype/ReadMeProtype.md))
