@@ -12,7 +12,7 @@
 | 5 | the game should be able to keep track of the game rules|
 
 # Protype Sketch
-[Protype Sketch](Protype/protype.html)
+[Protype Sketch](../Protype/protype.html)
 
 
 ## Explination
