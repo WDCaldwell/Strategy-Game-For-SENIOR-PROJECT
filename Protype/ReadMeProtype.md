@@ -23,7 +23,7 @@ Their is 3 main areas of the game.
 + Play Area
 + Blue team
 ### Blue team and red team
-+These two are mirror with it being split up with an identifying text that will be lined up with some matching-colored background shading later.
++ These two are mirror with it being split up with an identifying text that will be lined up with some matching-colored background shading later.
 + Along side each unit will get its own placement. Current plan is each spot showing each minions current health and attack, abilities, and if they have moved this turn.
 + Note number of minions are to be determined based off board size.
 ### Play Area
