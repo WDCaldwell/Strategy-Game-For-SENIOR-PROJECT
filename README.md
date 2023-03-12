@@ -95,3 +95,7 @@ Player wants to Remove a minion to one of sides. A copy of the unit they want to
 
 # UML Class Diagram 
 ![](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/000657594cbf3e031c024efba347fc263d4f3d8d/ReadMe%20Images/UML%20Class%20Diagram.png)
+
+# protype
+
+![](Protype/ReadMeProtype.md)
