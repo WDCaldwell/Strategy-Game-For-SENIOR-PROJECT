@@ -13,7 +13,7 @@
 
 # Protype Sketch
 [Protype Sketch](../Protype/protype.html)
-https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/457ea2edb0308d056253b88b6e96743052311316/Protype/Protype%20Sketch.png
-
+![](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/457ea2edb0308d056253b88b6e96743052311316/Protype/Protype%20Sketch.png)
+![](../Protype/protype.html)
 
 ## Explination
