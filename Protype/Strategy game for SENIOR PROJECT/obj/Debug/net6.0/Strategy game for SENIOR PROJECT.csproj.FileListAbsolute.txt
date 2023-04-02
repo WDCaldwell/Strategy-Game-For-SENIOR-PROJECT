@@ -1,0 +1,32 @@
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\bin\Debug\net6.0\appsettings.json
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\bin\Debug\net6.0\Strategy game for SENIOR PROJECT.exe
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\bin\Debug\net6.0\Strategy game for SENIOR PROJECT.deps.json
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\bin\Debug\net6.0\Strategy game for SENIOR PROJECT.runtimeconfig.json
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\bin\Debug\net6.0\Strategy game for SENIOR PROJECT.dll
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\bin\Debug\net6.0\Strategy game for SENIOR PROJECT.pdb
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\obj\Debug\net6.0\Strategy game for SENIOR PROJECT.csproj.AssemblyReference.cache
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\obj\Debug\net6.0\Strategy game for SENIOR PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\obj\Debug\net6.0\Strategy game for SENIOR PROJECT.AssemblyInfoInputs.cache
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\obj\Debug\net6.0\Strategy game for SENIOR PROJECT.AssemblyInfo.cs
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\obj\Debug\net6.0\Strategy game for SENIOR PROJECT.csproj.CoreCompileInputs.cache
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\obj\Debug\net6.0\Strategy game for SENIOR PROJECT.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\obj\Debug\net6.0\Strategy game for SENIOR PROJECT.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\obj\Debug\net6.0\staticwebassets\msbuild.Strategy game for SENIOR PROJECT.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\obj\Debug\net6.0\staticwebassets\msbuild.build.Strategy game for SENIOR PROJECT.props
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Strategy game for SENIOR PROJECT.props
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Strategy game for SENIOR PROJECT.props
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\obj\Debug\net6.0\scopedcss\bundle\Strategy game for SENIOR PROJECT.styles.css
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\obj\Debug\net6.0\Strategy game for SENIOR PROJECT.csproj.CopyComplete
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\obj\Debug\net6.0\Strategy game for SENIOR PROJECT.dll
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\obj\Debug\net6.0\refint\Strategy game for SENIOR PROJECT.dll
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\obj\Debug\net6.0\Strategy game for SENIOR PROJECT.pdb
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\obj\Debug\net6.0\Strategy game for SENIOR PROJECT.genruntimeconfig.cache
+D:\Users\wdear\source\repos\Strategy game for SENIOR PROJECT\Strategy game for SENIOR PROJECT\obj\Debug\net6.0\ref\Strategy game for SENIOR PROJECT.dll
