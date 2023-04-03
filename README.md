@@ -99,17 +99,20 @@ Player wants to Remove a minion to one of sides. A copy of the unit they want to
 # protype
 ![Protype](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/6cc484c56659ecee1731011303d1f0cb60fead63/Protype/ReadMeProtype.md)
 
+### Unit
 # Data Access Layer
 ![](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/ed4c77ee02bbd343d88d526f6bc0ebe23362dbb6/ReadMe%20Images/Data%20Access/unit.PNG)
 Data scheme for the unit table. will be used to contain a units base stats.
 ![Controller](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/ed4c77ee02bbd343d88d526f6bc0ebe23362dbb6/Protype/Strategy%20game%20for%20SENIOR%20PROJECT/Controllers/UnitController.cs)
 ![Data](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/ed4c77ee02bbd343d88d526f6bc0ebe23362dbb6/Protype/Strategy%20game%20for%20SENIOR%20PROJECT/Models/Unit.cs)
 
+### Abilty
 ![](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/ed4c77ee02bbd343d88d526f6bc0ebe23362dbb6/ReadMe%20Images/Data%20Access/Ability.PNG)
 Ability scheme for the Ability table. will be used to get the name of the abilites to prevent excess data entries.
 ![Controller](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/ed4c77ee02bbd343d88d526f6bc0ebe23362dbb6/Protype/Strategy%20game%20for%20SENIOR%20PROJECT/Controllers/AbilityController.cs)
 ![Data](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/ed4c77ee02bbd343d88d526f6bc0ebe23362dbb6/Protype/Strategy%20game%20for%20SENIOR%20PROJECT/Models/Ability.cs)
 
+### UnitAbilty
 ![](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/ed4c77ee02bbd343d88d526f6bc0ebe23362dbb6/ReadMe%20Images/Data%20Access/UnitAbility.PNG)
 UnitAbilty scheme used to assaigne abilites to units. Later the logic engine will do a check to determ the abilities effects.
 ![Controller](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/ed4c77ee02bbd343d88d526f6bc0ebe23362dbb6/Protype/Strategy%20game%20for%20SENIOR%20PROJECT/Controllers/UnitAbilityController.cs)
