@@ -99,8 +99,8 @@ Player wants to Remove a minion to one of sides. A copy of the unit they want to
 # protype
 ![Protype](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/6cc484c56659ecee1731011303d1f0cb60fead63/Protype/ReadMeProtype.md)
 
-### Unit
 # Data Access Layer
+### Unit
 ![](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/ed4c77ee02bbd343d88d526f6bc0ebe23362dbb6/ReadMe%20Images/Data%20Access/unit.PNG)
 Data scheme for the unit table. will be used to contain a units base stats.
 ![Controller](https://github.com/WDCaldwell/Strategy-Game-For-SENIOR-PROJECT/blob/ed4c77ee02bbd343d88d526f6bc0ebe23362dbb6/Protype/Strategy%20game%20for%20SENIOR%20PROJECT/Controllers/UnitController.cs)
